@@ -12,8 +12,10 @@
     <img width="200" height="200"
       src="https://webpack.js.org/assets/icon-square-big.svg">
   </a>
-  <h1>CSS Loader</h1>
+  <h1>CSS Loader (styled-jsx)</h1>
 </div>
+
+> :warning: This fork removes `postcss-icss-selectors` plugin in otder to keep `:global` selectors used in `styled-jsx`.
 
 <h2 align="center">Install</h2>
 
